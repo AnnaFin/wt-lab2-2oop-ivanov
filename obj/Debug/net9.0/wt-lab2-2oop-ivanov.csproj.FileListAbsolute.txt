@@ -1,0 +1,14 @@
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\bin\Debug\net9.0\wt-lab2-2oop-ivanov.exe
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\bin\Debug\net9.0\wt-lab2-2oop-ivanov.deps.json
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\bin\Debug\net9.0\wt-lab2-2oop-ivanov.runtimeconfig.json
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\bin\Debug\net9.0\wt-lab2-2oop-ivanov.dll
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\bin\Debug\net9.0\wt-lab2-2oop-ivanov.pdb
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.AssemblyInfoInputs.cache
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.AssemblyInfo.cs
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.csproj.CoreCompileInputs.cache
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.dll
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\refint\wt-lab2-2oop-ivanov.dll
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.pdb
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\wt-lab2-2oop-ivanov.genruntimeconfig.cache
+D:\Учёба\Вэб-технологии\Лаб 2\wt-lab2-2oop-ivanov\obj\Debug\net9.0\ref\wt-lab2-2oop-ivanov.dll
